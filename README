@@ -1,0 +1,7 @@
+ba/      plain broccoli server
+ea/      emberjs basic project
+tba.sh   requests files from the broccoli server
+tea.sh   requests files from the emberjs server
+tcom.sh  calls curl with the Firefox header (Accept: text/html...)
+tsem.sh  calls curl without the Firefox header
+
